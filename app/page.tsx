@@ -63,7 +63,7 @@ export default function Home() {
 
     <div className="grid grid-cols-12 h-screen w-screen px-56">
      <div className="col-span-3 pt-1 ml-4">
-      <div className="text-2xl h-fit hover:bg-gray-800 rounded-full p-2 bg-white cursor-pointer transition-all w-fit ">
+      <div className="text-2xl h-fit hover:bg-gray-800 rounded-full p-2  cursor-pointer transition-all w-fit ">
      <BsTwitter />
      </div>
      <div className="mt-1 text-xl pr-4">
